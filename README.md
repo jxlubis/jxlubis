@@ -1,6 +1,6 @@
 # Hello👋 
 
-My name is **Jannatun Khustia Lubis**. I am interested in data analytics and data science. Currently, I am learning data analysis by watching youTube, reading documentation, taking free online courses, and practicing through various projects.
+My name is **Jannatun Khustia Lubis**. I am interested in data analytics and data science. Currently, I am learning data analysis by watching youtube, reading documentation, taking free online courses, and practicing through various projects.
 
 
 <!---
